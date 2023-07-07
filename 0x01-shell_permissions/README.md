@@ -1,2 +1,1 @@
-readme file
-
+i am betty
